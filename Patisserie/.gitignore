@@ -1,0 +1,2 @@
+.git ignore
+/admin/lib/php/pgConnect.php
